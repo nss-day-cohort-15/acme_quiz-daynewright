@@ -1,0 +1,88 @@
+{
+  "products" : [{
+     "Guinness Stout" : {
+          "id" : 0,
+          "type" : 0,
+          "name" : "Guiness Stout",
+          "description": "Guinness stout is made from water, barley, roast malt extract, hops, and brewer's yeast. A portion of the barley is roasted to give Guinness its dark colour and characteristic taste."
+     },
+    "New Holland The Poet" : {
+          "id" : 1,
+          "type" : 0,
+          "name" : "New Holland The Poet",
+          "description": "Expansive and deep in its malt presence, this is beer to ruminate over in some Victorian-era study with a roaring fireplace and bearskin rug."
+     },
+    "Yazoo Fall Lager": {
+          "id" : 2,
+          "type" : 1,
+          "name" : "Yazoo Fall Lager",
+          "description": "Our Fall Lager builds to a mighty, malty peak and disappears with a crisp hop note. Perfect for porch sitting in a southern Fall."
+     },
+    "Little Harpeth Upstream" : {
+          "id" : 3,
+          "type" : 1,
+          "name" : "Little Harpeth Upstream",
+          "description": "Upstream is an amber-colored beer that derives its flavor from American base and color malts and its flavor is offset by the use of Northern Brewer hops."
+     },
+    "60 Minute IPA" : {
+          "id" : 4,
+          "type" : 2,
+          "name" : "60 Minute IPA",
+          "description": "60 Minute IPA is continuously hopped -- more than 60 hop additions over a 60-minute boil."
+     },
+     "Indian Brown Ale" : {
+          "id" : 5,
+          "type" : 2,
+          "name" : "Indian Brown Ale",
+          "description": "A cross between a Scotch Ale, an India Pale Ale and an American Brown, Indian Brown Ale is well-hopped and malty at the same time (It's magical!)."
+     },
+    "E&J Brandy" : {
+          "id" : 6,
+          "type" : 3,
+          "name" : "E&J Brandy",
+          "description": "E&J has been America's most preferred brandy alcohol since 1975, favored for its smooth taste & authentic style."
+     },
+    "Christian Brothers Brandy" : {
+          "id" : 7,
+          "type" : 3,
+          "name" : "Christian Brothers Brandy",
+          "description": ""
+     },
+    "Whiskey #1" : {
+          "id" : 8,
+          "type" : 4,
+          "name" : "Whiskey #1",
+          "description": ""
+     },
+     "Whiskey #2" : {
+          "id" : 9,
+          "type" : 4,
+          "name" : "Whiskey #2",
+          "description": ""
+     },
+    "Red Wine #1" : {
+          "id" : 10,
+          "type" : 5,
+          "name" : "Red Wine #1",
+          "description": ""
+     },
+    "Red Wine #2" : {
+          "id" : 11,
+          "type" : 5,
+          "name" : "Red Wine #2",
+          "description": ""
+     },
+    "White Wine #1" : {
+          "id" : 12,
+          "type" : 6,
+          "name" : "White Wine #1",
+          "description": ""
+     },
+    "White Wine #2" : {
+          "id" : 13,
+          "type" : 6,
+          "name" : "White Wine #2",
+          "description": ""
+     }
+  }]
+}

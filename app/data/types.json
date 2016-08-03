@@ -1,0 +1,46 @@
+{
+    "types" : [
+        {
+          "id" : 0,
+          "category" : 0,
+          "name" : "Stout",
+          "description" : "Stout is a dark beer made using roasted malt or roasted barley, hops, water and yeast."
+        },
+        {
+          "id" : 1,
+          "category" : 0,
+          "name" : "Lager",
+          "description" : "Lager is a type of beer that is fermented and conditioned at low temperatures."
+        },
+        {
+          "id" : 2,
+          "category" : 0,
+          "name" : "Ale",
+          "description" : "Ale is a type of beer brewed using a warm fermentation method, resulting in a sweet, full-bodied and fruity taste."
+        },
+        {
+          "id" : 3,
+          "category" : 1,
+          "name" : "Brandy",
+          "description" : "Brandy is a spirit produced by distilling wine."
+        },
+        {
+          "id" : 4,
+          "category" : 1,
+          "name" : "Whiskey",
+          "description" : "Whiskey is a type of distilled alcoholic beverage made from fermented grain mash."
+        },
+        {
+          "id" : 5,
+          "category" : 2,
+          "name" : "Red Wine",
+          "description" : "Red wine is a type of wine made from dark-colored (black) grape varieties."
+        },
+        {
+          "id" : 6,
+          "category" : 2,
+          "name" : "White Wine",
+          "description" : "White wine is a wine whose color can be straw-yellow, yellow-green, or yellow-gold coloured."
+        }
+   ]
+}

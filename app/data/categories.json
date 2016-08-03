@@ -1,0 +1,16 @@
+{
+    "categories" : [
+        {
+            "id" : 0,
+            "name" : "Beer"
+        },
+        {
+            "id ": 1,
+            "name" : "Liquor"
+        },
+         {
+            "id ": 2,
+            "name" : "Wine"
+        }
+   ]
+}
