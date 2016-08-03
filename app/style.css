@@ -6,3 +6,8 @@ h1 {
 .center {
     text-align: center;
 }
+
+.prod {
+    min-height: 350px;
+}
+
