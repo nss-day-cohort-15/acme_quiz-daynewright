@@ -42,47 +42,71 @@
           "name" : "E&J Brandy",
           "description": "E&J has been America's most preferred brandy alcohol since 1975, favored for its smooth taste & authentic style."
      },
-    "Christian Brothers Brandy" : {
+    "Christian Bros Brandy" : {
           "id" : 7,
           "type" : 3,
-          "name" : "Christian Brothers Brandy",
+          "name" : "Christian Bros Brandy",
           "description": "The Christian Brothers VS Brandy is distilled using the same time-honored pot still production method used with fine Cognacs. This exceptional American Brandy is then aged for 2 to 6 years in oak barrels"
      },
-    "Jack Daniels No.7" : {
+   "Jack Daniels No.7" : {
           "id" : 8,
           "type" : 4,
           "name" : "Jack Daniels No.7",
           "description": "Our Tennessee Sippin’ Whiskey is ready only when our tasters say it is. We use our senses, just like Jack Daniel himself did. In fact, more than a century later, our Tennessee Whiskey is still judged the same way."
      },
-     "Gentleman Jack" : {
+   "Gentleman Jack" : {
           "id" : 9,
           "type" : 4,
           "name" : "Gentleman Jack",
           "description": "Just like Jack Daniel’s Tennessee Whiskey and Jack Daniel’s Single Barrel, Gentleman Jack is charcoal mellowed before going into the barrel. Gentleman Jack, however, receives an additional \"blessing\" when it is charcoal mellowed again after reaching maturity giving it ultimate smoothness."
      },
-    "Red Wine #1" : {
+   "Honey Brandy" : {
           "id" : 10,
-          "type" : 5,
-          "name" : "Red Wine #1",
-          "description": ""
-     },
-    "Red Wine #2" : {
+          "type" : 4,
+          "name" : "Honey Brandy",
+          "description": "Christian Brothers Honey is the ultimate in smoothness, infusing, pure natural Honey with the rich taste of Christian Brothers Brandy, distilled from premium grape varietals and aged in hand selected oak barrels."
+   },
+     "Martell Cognac" : {
           "id" : 11,
-          "type" : 5,
-          "name" : "Red Wine #2",
-          "description": ""
+          "type" : 4,
+          "name" : "Martell Cognac",
+          "description": "Cognac is a type of brandy and, after the distillation and during the aging process, is also called eau de vie. It is produced by doubly distilling white wines produced in any of the designated growing regions."
      },
-    "White Wine #1" : {
+    "Pinot Noir" : {
           "id" : 12,
-          "type" : 6,
-          "name" : "White Wine #1",
-          "description": ""
+          "type" : 5,
+          "name" : "Pinot Noir",
+          "description": "The wine is a very light red color in the glass, and has the lightest body of all the wines you’ll taste. When you smell the wine, you’ll often get aromas of cherries, raspberries and cranberries."
      },
-    "White Wine #2" : {
+   "Sauvignon Blanc" : {
           "id" : 13,
+          "type" : 5,
+          "name" : "Sauvignon Blanc",
+          "description": "Sauvignon blanc normally shows a herbal character suggesting bell pepper or freshly mown grass. The dominating flavors range from sour green fruits of apples, pears and gooseberries through to tropical fruits of melon, mango and blackcurrant."
+     },
+   "Cabernet Sauvignon" : {
+          "id" : 14,
+          "type" : 5,
+          "name" : "Cabernet Sauvignon",
+          "description": "Cabernet Sauvignon is a great wine for experiencing these tannins, not to mention that it’s the most popular red wine in the world, so as a beginner it’s important to understand whether or not you like it."
+     },
+    "Chardonnay" : {
+          "id" : 15,
           "type" : 6,
-          "name" : "White Wine #2",
-          "description": ""
+          "name" : "Chardonnay",
+          "description": "Typical taste of the different types of chardonnay: voluptuous. Chardonnay wines are often wider-bodied (and more velvety) than other types of dry whites, with rich citrus (lemon, grapefruit) flavors."
+     },
+    "Riesling" : {
+          "id" : 16,
+          "type" : 6,
+          "name" : "Riesling",
+          "description": "Riesling wines are much lighter than Chardonnay wines. The aromas generally include fresh apples. The riesling variety expresses itself very differently depending on the district and the winemaking."
+     },
+    "Moscato" : {
+          "id" : 17,
+          "type" : 6,
+          "name" : "Moscato",
+          "description": "Moscato often sweet and always fruity, with a characteristic grapefruity and musky aroma. Moscato wines are easily recognizable to anyone who has tasted a Muscat table grape."
      }
   }]
 }
