@@ -9,5 +9,12 @@ h1 {
 
 .prod {
     min-height: 350px;
+    border: 2px solid #f8f8f8;
+    margin-bottom: 25px;
 }
 
+span {
+  font-weight: 400;
+  color: #1e2227;
+
+}

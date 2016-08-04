@@ -46,19 +46,19 @@
           "id" : 7,
           "type" : 3,
           "name" : "Christian Brothers Brandy",
-          "description": ""
+          "description": "The Christian Brothers VS Brandy is distilled using the same time-honored pot still production method used with fine Cognacs. This exceptional American Brandy is then aged for 2 to 6 years in oak barrels"
      },
-    "Whiskey #1" : {
+    "Jack Daniels No.7" : {
           "id" : 8,
           "type" : 4,
-          "name" : "Whiskey #1",
-          "description": ""
+          "name" : "Jack Daniels No.7",
+          "description": "Our Tennessee Sippin’ Whiskey is ready only when our tasters say it is. We use our senses, just like Jack Daniel himself did. In fact, more than a century later, our Tennessee Whiskey is still judged the same way."
      },
-     "Whiskey #2" : {
+     "Gentleman Jack" : {
           "id" : 9,
           "type" : 4,
-          "name" : "Whiskey #2",
-          "description": ""
+          "name" : "Gentleman Jack",
+          "description": "Just like Jack Daniel’s Tennessee Whiskey and Jack Daniel’s Single Barrel, Gentleman Jack is charcoal mellowed before going into the barrel. Gentleman Jack, however, receives an additional \"blessing\" when it is charcoal mellowed again after reaching maturity giving it ultimate smoothness."
      },
     "Red Wine #1" : {
           "id" : 10,

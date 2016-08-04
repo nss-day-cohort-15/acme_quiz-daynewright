@@ -29,7 +29,7 @@ $(document).ready(function(){
 
        $('#store-items').html('');
 
-       var selectedId = parseInt($(this).children().attr('id').slice(-1));
+       var selectedId = parseInt($(this).children().attr('id').match(/-(\w+)/);
        var selectedName = $(this).children().html();
 
      $.getJSON('app/data/types.json')
