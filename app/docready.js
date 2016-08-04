@@ -2,6 +2,6 @@
 $(document).ready(function(){
 
     Store.jsonCall();
-   $('.dropdown-menu li a').click(Store.addProdDom);
+    $('.dropdown-menu  a').click(Store.addProdDom);
 
 }); 

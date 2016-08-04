@@ -1,6 +1,7 @@
 
 h1 {
   color: tomato;
+  margin-bottom: 40px;
 }
 
 .center {
@@ -9,8 +10,10 @@ h1 {
 
 .prod {
     min-height: 350px;
-    border: 2px solid #f8f8f8;
+    border: 2px solid #c5c5c5;
     margin-bottom: 25px;
+    margin-left: 6%;
+    background: #f8f8f8;
 }
 
 span {

@@ -2,14 +2,14 @@
 var Store = (function(store){
 
     store.addCatDom = function(selector){
-        store.getCategories().forEach((e,i) => $(selector[i]).html(`<a id="id-${i}" href="#">${e.name}</a>`));
+        store.getCategories().forEach((e,i) => $(selector).append(`<li><a id="id-${i}" href="#">${e.name}</a></li>`));
         selector.click(Store.addProdDom);
     }
 
-    store.addProdDom = function(){
+    store.addProdDom = function(evt){
            $('#store-items').html('');
-
-            var selectedCat = parseInt($(this).children().attr('id').match(/\d+/));
+           
+           var selectedCat = parseInt($(evt.target).attr('id').match(/\d+/));
             var categories = store.getCategories();
             var types = store.getTypes();
             var products = store.getProducts();
@@ -27,7 +27,7 @@ var Store = (function(store){
 
    function buildDiv(category, type, product){
          $('#store-items').append(`
-           <div class="col-md-4 col-md-offset-1 center prod">
+           <div class="col-md-3 center prod">
              <h2>${product.name}</h2>
              <h4><span>Type:</span> ${type.name} |<span> Category:</span> ${category.name}</h4>
              <hr />

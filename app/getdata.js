@@ -12,7 +12,7 @@ var Store = (function(store){
              .then(res => types = res.types)
              .then(() => $.getJSON('app/data/products.json'))
              .then(res => products = res.products)
-             .then(() => store.addCatDom($('.dropdown-menu li')))
+             .then(() => store.addCatDom($('.dropdown-menu')))
     }
 
     store.getCategories =  function(){
